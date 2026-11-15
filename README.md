@@ -13,3 +13,5 @@ Open `index.html` in a browser, or host the folder as a static site (GitHub Page
 - `js/game.js`: game state, economy, workshop, map rendering and effects
 - `js/audio.js`: generated ambient music and train sounds (Web Audio, no audio files)
 - `fonts/`: Barlow and Barlow Condensed (SIL Open Font License)
+
+For developers: see `HANDOFF.md` for architecture, formulas, save format and known issues.
